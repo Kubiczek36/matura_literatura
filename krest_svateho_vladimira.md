@@ -137,3 +137,9 @@ nedávej nikomu nic, ale všem ber!
 __10. konkurs__
 Představitelé církví přesvědčují Vladimíra, aby si zvolil jejich víru.
 
+## Postavy 
+__Car__ - samolibý, musí být vždy po jeho, když se někdo vzpříčí jeho vůli, je za to potrestán,
+těžko zvládá následnou krizi v Rusku, namyšlený, krutý, egoista, hloupý, utlačuje lidi
+__Perun__ - Bůh, který neudělal to, co mu car - člověk - nařídil a ten ho za to odsoudil, s jeho
+smrtí se ztratila autorita k církvi a k víře, vzdorovitý, vulgární, hrubý
+__jezovité__ - mniši, kteří - jak je zřejmé z devátého zpěvu - se jedou do Ruska najíst a smilnit
