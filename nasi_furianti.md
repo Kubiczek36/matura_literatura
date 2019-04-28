@@ -1,10 +1,10 @@
 # Naši Furianti
-## _Ladislav Stroupežnický, 18_
+## _Ladislav Stroupežnický, 1887_
 
 Toto realistické drama o čtyřech dějstvích. Drama vyobrazuje život na vesnici nezidealizovaný, v komické podobě.
 
 > __furiant__, -a m. (z lat. zákl.) 
->1. expr. _člověk přemrštěně a okázale projevující své sebevědomí, pýchu, domýšlivost, nadutost, nafoukanost, umíněnost; vůbec člověk pyšný, umíněný:_
+>1. expr. _člověk přemrštěně a okázale projevující své sebevědomí, pýchu, domýšlivost, nadutost, nafoukanost, umíněnost; vůbec člověk pyšný, umíněný:_   (Jazyková příručka UJČ AV ČR)
 
 ## Literárně historický kotext
 
@@ -19,15 +19,25 @@ __Paní mincmistrová__ – hlavním hrdinou opět Mikuláš Dačický
 
 __Naši furianti__ čít 2 s.137 - veselohra ze života jihočeské vesnice, spor mezi vysloužilým vojákem Bláhou a krejčím Fialou o to, kdo se stane v obci ponocným; vliv na to mají sedláci – starosta Dubský, pytlák Bušek, nejde už o věc, ale o osobní zájmy, dochází k hádkám, intrikám, postavy jsou živé typy, jsou v nich vystiženy výrazné rysy českých sedláků – hlavně furiantství, furianti = vychloubají se, naparují se, hrají si na pána, chtějí každého trumfnout, jsou tvrdohlaví, domýšliví, okázale předvádějí, co mají či umí, projevuje se to všechno v řeči, gestech, jednání, chování. Dialog oživen nářečím, také využit situační humor.
 
+### Český realismus
 
+__G. Preisová__ - Její pastorkyňa (vesnická tématika)
+
+__Bratři Mrštíkové__ - Maryša 
+
+__A. Jirásek__ - Historická próza - Staré pověsti české, F. L. Věk
+
+---
 ## Děj
-Děj se odehrává v jihočeské vesnici na písecku. Během hry je řešen spor o ponocného a do toho se průběžně postavy střetávají.
+Děj se odehrává v jihočeské vesnici Honice na písecku. Během hry je řešen spor o ponocného a do toho se průběžně postavy střetávají.
 
 >Čtyři muzikanti, ženy, děti, čeleď, chasníci, sousedé.
 >Děj roku 1869 ve vesnici Honících v jižních Čechách.
 >Dějství I. a IV. hraje na návsi v Honících; II. v hospodě a III. ve světnici u starosty Dubského.
 
-Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru Kristýnu aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že  
+Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru `Kristýnu` aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že pokud se bláha nestane ponocným, vypálí vesnici. Po čase `Kristýna` přizná, že jej vtvořila. `Bušek` se opakovaně bez  jakýchkoli argumentů zastává `Fialy`. Nakonec `Bláha` spálí paličský list, aby Fiala nemusel do vězení.
+
+V průběhu hry se Bušek s  Dubským předhánějí o to kdo dá víc jejich dětek ke svatbě, považují to za čest. 
 
 Celá hra začíná scénou, kde se `Valientin Bláha` a `Jozef Habešperk` snaží namluvit `Markýtku` (cestující obchodnici). Následně na scéu přichází namlouvající se Václav s Verunkou, kteří plánují, že se vezmou. O tom mluví v následující scéně jejich rodiče starosta `Dubský` a první radní `Bušek`. Během scény se předhání, kdo z nich dá větší věno. 
 
@@ -45,7 +55,7 @@ Celá hra začíná scénou, kde se `Valientin Bláha` a `Jozef Habešperk` sna�
 >
 > __BUŠEK:__ To nemůžu. Na mou duši ne! Víš, že mám ještě kluka, to bych ho o tisíc zlatejch okrad.
 >
-> __DUBSKÝ__ (váhavé a jako sklamán): No, já si to tak představoval na těch osum tisíc. – No ale víš co – přidej ten pár koní, co jsi koupil onehdy o píseckým jarmárce- - - (Podává mu ruku.)
+> __DUBSKÝ__ (_váhavé a jako sklamán_): No, já si to tak představoval na těch osum tisíc. – No ale víš co – přidej ten pár koní, co jsi koupil onehdy o píseckým jarmárce- - - (Podává mu ruku.)
 >
 > __BUŠEK__ (vzdorovitě): A vidíš, Filipe, to neudělám! (K Ehrmannovi.) To jistě, Marku, uznáte, že udělat nemůžu.
 
