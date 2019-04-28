@@ -4,7 +4,7 @@
 Toto realistické drama o čtyřech dějstvích. Drama vyobrazuje život na vesnici nezidealizovaný, v komické podobě.
 
 > __furiant__, -a m. (z lat. zákl.) 
->1. expr. _člověk přemrštěně a okázale projevující své sebevědomí, pýchu, domýšlivost, nadutost, nafoukanost, umíněnost; vůbec člověk pyšný, umíněný:_   (Jazyková příručka UJČ AV ČR)
+>1. expr. _člověk přemrštěně a okázale projevující své sebevědomí, pýchu, domýšlivost, nadutost, nafoukanost, umíněnost; vůbec člověk pyšný, umíněný:_   (Internetová jazyková příručka UJČ AV ČR)
 
 ## Literárně historický kotext
 
@@ -37,9 +37,8 @@ Děj se odehrává v jihočeské vesnici Honice na písecku. Během hry je řeš
 
 Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru `Kristýnu` aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že pokud se bláha nestane ponocným, vypálí vesnici. Po čase `Kristýna` přizná, že jej vtvořila. `Bušek` se opakovaně bez  jakýchkoli argumentů zastává `Fialy`. Nakonec `Bláha` spálí paličský list, aby Fiala nemusel do vězení.
 
-V průběhu hry se Bušek s  Dubským předhánějí o to kdo dá víc jejich dětek ke svatbě, považují to za čest. 
+V průběhu hry se Bušek s Dubským předhánějí o to kdo dá víc jejich dětek ke svatbě, považují to za čest. Nejprve se předhání kdo dá větší věno. Během oslavy pak kdo koupí více lahví punče. Tito dva se na konci hry rozhádají kvli Buškovu pytlačení (Bušek bere označení _pytlák_ za urážlivé) proto obo zakazují svým dětem, aby se brali. Kvůli tomuto zákazu se Václav rozhoduje odejít na vojnu. Oba se nakonec udobří, k čemuž je Bušek dotlačen Habešpěrkem, ten by Buška jinak udal pro pytlačení.
 
-Celá hra začíná scénou, kde se `Valientin Bláha` a `Jozef Habešperk` snaží namluvit `Markýtku` (cestující obchodnici). Následně na scéu přichází namlouvající se Václav s Verunkou, kteří plánují, že se vezmou. O tom mluví v následující scéně jejich rodiče starosta `Dubský` a první radní `Bušek`. Během scény se předhání, kdo z nich dá větší věno. 
 
 > __DUBSKÝ__ No víš, já mám v naši vesnici dva grunty; popustím Václavovi ten větší a na menším budu do smrti hospodařit a dám z něj svýmu pantátovi Petrovi vejminěk. – A moc-li bys dal ty Verunce přínosu?
 >
@@ -58,5 +57,3 @@ Celá hra začíná scénou, kde se `Valientin Bláha` a `Jozef Habešperk` sna�
 > __DUBSKÝ__ (_váhavé a jako sklamán_): No, já si to tak představoval na těch osum tisíc. – No ale víš co – přidej ten pár koní, co jsi koupil onehdy o píseckým jarmárce- - - (Podává mu ruku.)
 >
 > __BUŠEK__ (vzdorovitě): A vidíš, Filipe, to neudělám! (K Ehrmannovi.) To jistě, Marku, uznáte, že udělat nemůžu.
-
-Po roztržece přichází `Fialová` se 7 dětmi, podat žádost o ponocentsví pro jejího manžela. Děti jsou předem instruováni, aby se chovali, jakoby jejich rodina měla být chudá a trpět. 
