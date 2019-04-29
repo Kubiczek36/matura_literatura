@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>krest_svateho_vladimira.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback";
+	font-size: 14px;
+	padding: 0 12px;
+	line-height: 22px;
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	color: #4080D0;
+	text-decoration: none;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+h1 code,
+h2 code,
+h3 code,
+h4 code,
+h5 code,
+h6 code {
+	font-size: inherit;
+	line-height: auto;
+}
+
+a:hover {
+	color: #4080D0;
+	text-decoration: underline;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left: 5px solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 14px;
+	line-height: 19px;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+.mac code {
+	font-size: 12px;
+	line-height: 18px;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+/** Theming */
+
+.vscode-light,
+.vscode-light pre code {
+	color: rgb(30, 30, 30);
+}
+
+.vscode-dark,
+.vscode-dark pre code {
+	color: #DDD;
+}
+
+.vscode-high-contrast,
+.vscode-high-contrast pre code {
+	color: white;
+}
+
+.vscode-light code {
+	color: #A31515;
+}
+
+.vscode-dark code {
+	color: #D7BA7D;
+}
+
+.vscode-light pre:not(.hljs),
+.vscode-light code > div {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre:not(.hljs),
+.vscode-dark code > div {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre:not(.hljs),
+.vscode-high-contrast code > div {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+.vscode-light blockquote,
+.vscode-dark blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.vscode-high-contrast blockquote {
+	background: transparent;
+	border-color: #fff;
+}
+</style>
+
+<style>
+/* Base16 Atelier Dune Dark - Theme */
+/* by Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune) */
+/* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
+
+/* Atelier-Dune Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #999580;
+}
+
+/* Atelier-Dune Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #d73737;
+}
+
+/* Atelier-Dune Orange */
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #b65611;
+}
+
+/* Atelier-Dune Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #60ac39;
+}
+
+/* Atelier-Dune Blue */
+.hljs-title,
+.hljs-section {
+  color: #6684e1;
+}
+
+/* Atelier-Dune Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #b854d4;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #20201d;
+  color: #a6a28c;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family:  "Meiryo", "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback";
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+</head>
+<body>
+<h1 id="k%C5%99est-svat%C3%A9ho-vladim%C3%ADra">Křest svatého Vladimíra</h1>
+<h2 id="karel-havl%C3%AD%C4%8Dek-borovsk%C3%BD-1856"><em>Karel Havlíček Borovský, 1856</em>_</h2>
+<p>Jedná se o nedokončenou básnickou skladbu, jejíž námět pochází z Nestorova letopisu (legenda o nástupu křesťnství v Kyjevské Rusi).</p>
+<h2 id="liter%C3%A1rn%C4%9B-historick%C3%BD-kontext">Literárně historický kontext</h2>
+<h3 id="k-h-borovsk%C3%BD">K. H. Borovský</h3>
+<p>Karel Havlíček Borovský byl český básník, novinář, spisovatel, ekonom a politik. Přídavek používal Borovský podle místa jeho narození, Borové u Přibyslavi.</p>
+<p>Odjíždí do ruska, kde pracoval jako vychovatel, <strong>po počátečním nadšenízjišťuje, že ruský carizmus je stejně konzervativní jako rakouský absolutizmus</strong>. Ve své práci kritizoval Bachův absolutizmus, to vedlo k cenzuře a následné deportaci do Brixenu. V Brixenu píše svá známá díla <code>Tyrolské elegie, Král Lávra, Křest svatého Vladimíra</code>. V dílech dochází k <strong>mísení realizmus romantizmu</strong>, zároveň končí národní obrození.</p>
+<p><strong>Epigramy</strong> - Krátké satrické básně, kritizoval církev, policii, stát, ...</p>
+<blockquote>
+<p><strong>Zle, matičko, zle!</strong><br>
+Poctivému hrozí jenom hlad,<br>
+zloději zas jenom šibenice;<br>
+český literát má trampot více,<br>
+jemu hrozí hlad i šibenice.</p>
+</blockquote>
+<p><strong>Tirolské Elegie, Křest sv. Vladimíra</strong> - rozsáhlejší básn. sbírky napsané v Brixenu</p>
+<p><strong>Obrazy z Rus, Kapitola o Kritice</strong> - žurnalistická díla</p>
+<h3 id="%C4%8Desk%C3%A1-literatura-19-stolet%C3%AD">Česká literatura 19. století</h3>
+<p>K. H. Borovský píše v počátcích českého realizmu (40. - 50. léta) kdy doznívá národní obrození (zdůrazňování vlastenectví, ...). <strong>Bachův absolutizmus</strong> však přináší <strong>cenzuru</strong>, ... To vede ke vzniku polit satiry.</p>
+<p>V průběhu <strong>romantizmu</strong> tvoří například autoři jako <strong>J. K. Tyl, K. J. Erbe či K. H. Mácha</strong>.</p>
+<p><strong>Božena Němcová</strong> - <em>Lidové pohádky, V zámku a podzámčí, Babička</em></p>
+<p><strong>J. Dobrovský, J. Jungmann, F. Palacký</strong> - Také národní buditelé.</p>
+<h2 id="kompozice-a-d%C4%9Bj">Kompozice a Děj</h2>
+<p>Skladba je psaná <strong>er-formou</strong> a skládá se z 10 zpěvů.</p>
+<h3 id="t%C3%A9ma">Téma</h3>
+<p>Role náboženství pro lidstvo. Vyskytuje se zde také úcta k vysokým od nízkých. Slovanská mentalita.</p>
+<blockquote>
+<p>Výsměch absolutistickému panovníkovi, který manipuluje s lidskými osudy. Kritika církve. Církvi nejde o víru, ale o majetek a ovládání lidí. Výsměch soudům, policistům, ministrům (kritika správního aparátu Rakouska v době Bachovského absolutismu).</p>
+</blockquote>
+<p><strong>1. Perun odmítá hřmít na Vladimírův svátek</strong><br>
+Král posílá k Perunovi sluhu, aby mu řekl, aby hřměl a oslavu jeho svátku.</p>
+<blockquote>
+<p>„Hřmi, Perune, na můj svátek<br>
+místo kanonády,<br>
+škoda prachu, dost ho padne<br>
+v bitvách u armády.<br>
+Hřmi, Perune, na můj svátek<br>
+místo kanonády,<br>
+pak si přijdi se mnou vypít<br>
+šálek čokolády.―</p>
+</blockquote>
+<p>Perun odmítá. Zároveň si u toho vulgárně stěžuje na cara a práci pro něj.</p>
+<blockquote>
+<p>Pro nic za nic robotovat -<br>
+nevěděl bych věru,<br>
+na tu jeho čekoládu,<br>
+že mu na ni seru!</p>
+</blockquote>
+<p>Car se rozzuří a plánuje jej potrestat, ale nejprve uspořádá velkou hostinu protože jej nechce trestat na svůj svátek.</p>
+<hr>
+<p><strong>2. Hospodářství</strong></p>
+<p>Perun si stěžuje na jeho práci boha.</p>
+<blockquote>
+<p>A co všechno na mně chtějí,<br>
+nelze vyjmenovat,<br>
+zbláznil bych se, kdybych si to<br>
+chtěl jen pamatovat.<br>
+...<br>
+Sám se nechce žádný starat,<br>
+za všechno se modlí,<br>
+jakoby měl kaţdý boha<br>
+jen pro své pohodlí.</p>
+</blockquote>
+<hr>
+<p><strong>3. Vojenský soud</strong><br>
+A jelikož proti němu neexistuje žádný právní předpis nechává jej postavit místo před normální před vojenský soud.</p>
+<blockquote>
+<p>Vojenský soud na civilní<br>
+dívá se s vysoká,<br>
+nesoudí podle zákonů,<br>
+všechno jen od oka.</p>
+</blockquote>
+<p>Zde je Perun odsouzen k utopení v Dněpru.</p>
+<p><strong>4. Testament Perunův</strong></p>
+<p>Borovský kritizuje lidské pojetí víry.</p>
+<p><strong>5. Bezbožnost v Rusích</strong><br>
+Ukazuje jak i bez boha se žilo v Rusi stejně, pouze církev a její hodnostáři neměli co dělat, přišli o příjmy.</p>
+<blockquote>
+<p>Ale svět je pořád stejný,<br>
+lidé ho nezmění:<br>
+plivni si stokrát do moře,<br>
+ono se nezpění.</p>
+<p>Tak i v Rusku bez Peruna<br>
+ve starém pořádku<br>
+běţela světská mašina<br>
+ja.k na kolovrátku.<br>
+Staří lidé umírali,</p>
+<p>děti se rodily,<br>
+hodní lidé pracovali<br>
+a ochlasti pili.</p>
+</blockquote>
+<hr>
+<p><strong>6. Audience</strong><br>
+Car pořádá Audience, kde se má řešit problém s bezbožstvím.</p>
+<hr>
+<p><strong>7. Min. rada</strong><br>
+Ministři se vyjadřovali k tomuto problému, každý si prosazoval svůj zájem.</p>
+<blockquote>
+<p>Pan ministr vnitřních věcí<br>
+pravil: „Páni bratří!<br>
+Ohlašme konkurs v novinách<br>
+tak, jak se to patří.</p>
+</blockquote>
+<hr>
+<p><strong>8. Karamila</strong><br>
+Na cara doráží i jeho milenky a ženy. Proto další den <strong>dává inzerát do novin</strong>. Inzerát se donese do Vatikánu, kde Papež posílá do Kyjeva delegaci <em>Jezovitů</em>.</p>
+<hr>
+<p><strong>9. Jezovitský marš</strong><br>
+Ukazuje záměry jezovitů v Kyjevě, kolikrát nekalé.</p>
+<blockquote>
+<p>dona nobis pacem<br>
+s kuchařkami spát chcem.<br>
+...<br>
+sicut erat in principio et nunc et semper -<br>
+nedávej nikomu nic, ale všem ber!</p>
+</blockquote>
+<hr>
+<p><strong>10. konkurs</strong><br>
+Představitelé církví přesvědčují Vladimíra, aby si zvolil jejich víru.</p>
+<h2 id="postavy">Postavy</h2>
+<p><strong>Car</strong> - samolibý, musí být vždy po jeho, když se někdo vzpříčí jeho vůli, je za to potrestán,<br>
+těžko zvládá následnou krizi v Rusku, namyšlený, krutý, egoista, hloupý, utlačuje lidi</p>
+<p><strong>Perun</strong> - Bůh, který neudělal to, co mu car - člověk - nařídil a ten ho za to odsoudil, s jeho<br>
+smrtí se ztratila autorita k církvi a k víře, vzdorovitý, vulgární, hrubý</p>
+<p><strong>jezovité</strong> - mniši, kteří - jak je zřejmé z devátého zpěvu - se jedou do Ruska najíst a smilnit</p>
+
+</body>
+</html>

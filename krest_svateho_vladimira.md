@@ -7,7 +7,7 @@ Jedná se o nedokončenou básnickou skladbu, jejíž námět pochází z Nestor
 ### K. H. Borovský
 Karel Havlíček Borovský byl český básník, novinář, spisovatel, ekonom a politik. Přídavek používal Borovský podle místa jeho narození, Borové u Přibyslavi. 
 
-Odjíždí do ruska, kde pracoval jako vychovatel, __po počátečním nadšenízjišťuje, že ruský carizmus je stejně konzervativní jako rakouský absolutizmus__. Ve své práci kritizoval Bachův absolutizmus, to vedlo k cenzuře a následné deportaci do Brixenu. V Brixenu píše svá známá díla `Tyrolské elegie, Král Lávra, Křest svatého Vladimíra`.
+Odjíždí do ruska, kde pracoval jako vychovatel, __po počátečním nadšenízjišťuje, že ruský carizmus je stejně konzervativní jako rakouský absolutizmus__. Ve své práci kritizoval Bachův absolutizmus, to vedlo k cenzuře a následné deportaci do Brixenu. V Brixenu píše svá známá díla `Tyrolské elegie, Král Lávra, Křest svatého Vladimíra`. V dílech dochází k __mísení realizmus romantizmu__, zároveň končí národní obrození.
 
 __Epigramy__ - Krátké satrické básně, kritizoval církev, policii, stát, ...
 
@@ -25,6 +25,8 @@ __Obrazy z Rus, Kapitola o Kritice__ - žurnalistická díla
 ### Česká literatura 19. století
 
 K. H. Borovský píše v počátcích českého realizmu (40. - 50. léta) kdy doznívá národní obrození (zdůrazňování vlastenectví, ...). __Bachův absolutizmus__ však přináší __cenzuru__, ... To vede ke vzniku polit satiry.
+
+V průběhu __romantizmu__ tvoří například autoři jako __J. K. Tyl, K. J. Erbe či K. H. Mácha__.
 
 __Božena Němcová__ - _Lidové pohádky, V zámku a podzámčí, Babička_
 
@@ -140,6 +142,8 @@ Představitelé církví přesvědčují Vladimíra, aby si zvolil jejich víru.
 ## Postavy 
 __Car__ - samolibý, musí být vždy po jeho, když se někdo vzpříčí jeho vůli, je za to potrestán,
 těžko zvládá následnou krizi v Rusku, namyšlený, krutý, egoista, hloupý, utlačuje lidi
+
 __Perun__ - Bůh, který neudělal to, co mu car - člověk - nařídil a ten ho za to odsoudil, s jeho
 smrtí se ztratila autorita k církvi a k víře, vzdorovitý, vulgární, hrubý
+
 __jezovité__ - mniši, kteří - jak je zřejmé z devátého zpěvu - se jedou do Ruska najíst a smilnit
