@@ -35,13 +35,9 @@ Děj se odehrává v jihočeské vesnici Honice na písecku. Během hry je řeš
 >Děj roku 1869 ve vesnici Honících v jižních Čechách.
 >Dějství I. a IV. hraje na návsi v Honících; II. v hospodě a III. ve světnici u starosty Dubského.
 
-<<<<<<< HEAD
-Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru Kristýnu aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že pokud se bláha nestane ponocným, tak vypálí vesnici.
-=======
 Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru `Kristýnu` aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že pokud se bláha nestane ponocným, vypálí vesnici. Po čase `Kristýna` přizná, že jej vtvořila. `Bušek` se opakovaně bez  jakýchkoli argumentů zastává `Fialy`. Nakonec `Bláha` spálí paličský list, aby Fiala nemusel do vězení.
 
 V průběhu hry se Bušek s Dubským předhánějí o to kdo dá víc jejich dětek ke svatbě, považují to za čest. Nejprve se předhání kdo dá větší věno. Během oslavy pak kdo koupí více lahví punče. Tito dva se na konci hry rozhádají kvli Buškovu pytlačení (Bušek bere označení _pytlák_ za urážlivé) proto obo zakazují svým dětem, aby se brali. Kvůli tomuto zákazu se Václav rozhoduje odejít na vojnu. Oba se nakonec udobří, k čemuž je Bušek dotlačen Habešpěrkem, ten by Buška jinak udal pro pytlačení.
->>>>>>> cf8419ab7c7846dce8f30303082c109a68cbd79d
 
 
 > __DUBSKÝ__ No víš, já mám v naši vesnici dva grunty; popustím Václavovi ten větší a na menším budu do smrti hospodařit a dám z něj svýmu pantátovi Petrovi vejminěk. – A moc-li bys dal ty Verunce přínosu?
