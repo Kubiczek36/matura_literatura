@@ -27,7 +27,7 @@ Děj se odehrává v jihočeské vesnici na písecku. Během hry je řešen spor
 >Děj roku 1869 ve vesnici Honících v jižních Čechách.
 >Dějství I. a IV. hraje na návsi v Honících; II. v hospodě a III. ve světnici u starosty Dubského.
 
-Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru Kristýnu aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že  
+Spor o ponocného začíná tím, že se starosta `Dubský` a první radní `Bušek` nedokáží shodnout, kdo se jím má stát. Zda-li vysloužilý voják `Bláha` (Dubský) či krejčí `Fiala` (Bušek). `Fiala` často argumentuje tím, že musí živit 7 dětí. Proto nutí svou dceru Kristýnu aby vytvořila takzvaný _paličský list_, čili veřejné oznámení, že pokud se bláha nestane ponocným, tak vypálí vesnici.
 
 Celá hra začíná scénou, kde se `Valientin Bláha` a `Jozef Habešperk` snaží namluvit `Markýtku` (cestující obchodnici). Následně na scéu přichází namlouvající se Václav s Verunkou, kteří plánují, že se vezmou. O tom mluví v následující scéně jejich rodiče starosta `Dubský` a první radní `Bušek`. Během scény se předhání, kdo z nich dá větší věno. 
 
