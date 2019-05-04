@@ -23,9 +23,26 @@ V literatuře se autoři nejčastěji staví k totalitě kriticky. Mezi příkla
 ## Kompozice a děj
 
 Jedná se o novelu, která popisuje jeden den, od probuzení až po večerní usínaní vězně v Gulagu. Tomu odpovídá i způsob jakým je kniha napsaná, obsahuje hodně __pasáží popisujících každodenní průběh a pravidla života v gulagu__. V díle jsou zachyceny podmínky života v takovém táboře a také mimotáborový život vězňů.
->  Pred casem bylo jedno takové štastné období: to linýrovali všem deset jako podle pravítka. Ale od devetactyricátého prišla nová etapa — všichni bez rozdílu dostávali petadvacet. Deset let se ješte dá utáhnout a nechcípnout, ale petadvacet —at to nekdo zkusí. 
+
+>  Před časem bylo jedno takové šťastné období: to linýrovali všem deset jako podle pravítka. Ale od devětačtyřicátého přišla nová etapa — všichni bez rozdílu dostávali pětadvacet. Deset let se ještě dá utáhnout a nechcípnout, ale pětadvacet — ať to někdo zkusí. 
 
 Děj se odehrává v padesátých letech. A je vyprávěn __er-formovým vypravěčem__. V podstatě se jedná o kroniku života v Gulagu.
+
+#### Ráno
+Budíček je v 5 ráno, Šuchov, který normálně hned vstává se v posteli kvůli bolestem (cítí se rozlámaný) je vyhnán až dozorcem, který jej nakonec za to nechal umýt podlahu.
+
+> ... pak další sloup, na kterém visel (v závětří, aby neukazoval moc nízko) teploměr, celý obalený jinovatkou. Šuchov s plachou nadějí mrkl na mléčně bílou trubičku; kdyby ukázal jedenačtyřicet, neměli by podle předpisu vyhánět na práci. Jenomže teploměr dnes k té čtyřicítce nějak ne a ne klesnout. 
+
+#### Práce
+
+Po příchodu na pracoviště začal parťák Ťurin rozdávat úkoly. Děnisovič má za úkol začít s opravou staré továrny. V jednu hodinu jsou káranci pro oběd - šlichtu z horké vody a rybích kostí. Šuchov se snaží i tak odvádět dobrou práci a to dokonce i přes čas. Jelikože při přepočítávání vězňů jeden člověk chybí tak se čeká,  za to pak ostatní Děnosoviči spílají a schytá i pár ran.
+
+#### Po práci
+
+Po práci následuje večeře, kde se Děnisovič dostane 
+...
+
+ Potom se již všechny party hrnou do jídelny na včeři. Podmínky jsou kruté - platí zákon silnějšího a úplatkářství. Ivanu Děnisovičovi se podařilo získat Césarův večerní příděl za to, že mu vystál frontu na balíčky. Šuchov svůj vlastní balík nikdy nedostane - jeho rodina je i tak dost chudá. Před večerkou následují prohlídky pokojů a zabavování. Poté již může šuchov s klidem zalézt na svou palandu. Před usnutím bilancuje - byl to dobrý den: nerozstonal se, nezavřeli ho do korekce, pronesl přes strážnici pilku, získal dvojitý příděl. Šuchov usínal úplně spokojen.
 
 ## Postavy
 
