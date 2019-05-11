@@ -20,3 +20,5 @@ __Horla, Kulička__ - povídky
 ### Kritický realizmus
 
 Realizmus je období, kreré
+
+## Postavy 

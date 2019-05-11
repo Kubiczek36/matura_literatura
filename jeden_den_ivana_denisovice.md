@@ -10,7 +10,9 @@ V této **novele** autor ukazuje jeden den vězně, vězněného v Gulagu. Využ
 Ruský disident a spisovatel. Za svou činnost mu byla udělena Nobelova cena za literaturu. 
 Za kritiku J. V. Stalina byl 8 let vězněn v několika Gulazích, z čehož vycházel ve své tvorbě. Kvůli které byl zbaven občanství a vyhnán z SSSR.
 
-__Souostroví Gulag__ - osud jednoho vězně od odsouzení, přes transport až po vyhannství
+Roku 1970 mu byla udělena Nobelova cena za literaturu.
+
+__Souostroví Gulag__ - osud jednoho vězně od odsouzení, přes transport až po vyhnanství
 
 __Rakovina__ - román
 
@@ -39,15 +41,14 @@ Po příchodu na pracoviště začal parťák Ťurin rozdávat úkoly. Děnisovi
 
 #### Po práci
 
-Po práci následuje večeře, kde se Děnisovič dostane 
-...
+Po práci následuje večeře, kde se Děnisovič dostane kolegův příděl za to, že mu vystál frontu na balíky. Před večerkou jsou vězni prohledáváni a jsou jim zabavovány věci. Při usínání šuchov bilancuje uběhlý den.
+>Šuchov usínal úplně spokojen. Tolik věcí se mu dnes poštěstilo: nezavřeli ho do korekce, partu nevyhnali na Socměstečko, v poledne ulil kaši, parťák dobře sfoukl výkaz, zdilo se mu jedna radost, pilku mu u prohlídky nenašli, navečer si přivydělal u Césara a koupil si tabáček. A nerozstonal se, zahnal nemoc. 
 
- Potom se již všechny party hrnou do jídelny na včeři. Podmínky jsou kruté - platí zákon silnějšího a úplatkářství. Ivanu Děnisovičovi se podařilo získat Césarův večerní příděl za to, že mu vystál frontu na balíčky. Šuchov svůj vlastní balík nikdy nedostane - jeho rodina je i tak dost chudá. Před večerkou následují prohlídky pokojů a zabavování. Poté již může šuchov s klidem zalézt na svou palandu. Před usnutím bilancuje - byl to dobrý den: nerozstonal se, nezavřeli ho do korekce, pronesl přes strážnici pilku, získal dvojitý příděl. Šuchov usínal úplně spokojen.
 
 ## Postavy
 
-__Ivan Děnisovič Šuchov__ (Sč. 854) - Hlavní hrdina, po 8 letech v galafgu ví jak se chovat, aby "přežil". Je jeden za zkušených a smířený s životem v táboře (špatné podmínky, ...).
+__Ivan Děnisovič Šuchov__ (Sč. 854) - Hlavní hrdina, po 8 letech v gulagu ví jak se chovat, aby "přežil". Je jeden za zkušených a smířený s životem v táboře (špatné podmínky, ...).
 
->Padle papíru zavřeli Šuchova za velezradu. Tak taky vypovídal — ano, je to pravda, dal se zajmout, protože chtěl zradit vlast, a ze zajetí se vrátil proto, ţe plnil úkol, kterým ho pověřila německá výzvědná služba. Ale jaký to vlastne byl úkol, to si nedokázal vymyslet ani Šuchov, ani vyšetřovatel. Tak to nakonec nechali — prostě úkol. 
+>Padle papíru zavřeli Šuchova za velezradu. Tak taky vypovídal — ano, je to pravda, dal se zajmout, protože chtěl zradit vlast, a ze zajetí se vrátil proto, že plnil úkol, kterým ho pověřila německá výzvědná služba. Ale jaký to vlastne byl úkol, to si nedokázal vymyslet ani Šuchov, ani vyšetřovatel. Tak to nakonec nechali — prostě úkol. 
 
 __členové 104. party__ - Předák _Ťurin_ (životel party, zastupuje ji), Lotyš _Kilgas_ (oblíbenec v partě), _Gopčik_ (mladý hoch), _Feťukov_ (neoblíbený, otravuje a žebrá).
