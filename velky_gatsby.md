@@ -3,6 +3,8 @@
 
 ## Literárně Historický kontext
 
+### F. S. Fitzgerald
+
 ## Příběh
 
 ## Postavy
