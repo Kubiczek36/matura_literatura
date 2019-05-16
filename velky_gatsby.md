@@ -36,3 +36,8 @@ Poté co se jednoho dne `Gatsby` s `Tomem` pohádají odjíždí Daisy s Gatsbym
 
 __Nick Caraway__ - Nick je vypravěčem, avšak v díle je pouze jako zprostředkovatel děje. Je tolerantní a všímavý. Taková "umělecká duše".
 
+__Jay Gatsby__ - původně hcudý mladík, který se během první světové války zamiluje do Daisy a je jí posedlý. Ve válce se stal majorem a po ní chvíli studoval na Oxfodu. Je okolo něj mnoho nejasností, což se některým lidem nelíbí. Má protekci u policie. Jinak je legantní a milý.
+
+__Daisy Buchanannová__ - její charakter je vytvořen na základě Fitzgeraldovy ženy Zeldy. Má s Tomem tříletou cenu, je půvabná a prioritou je pro ni materiální luxus.
+
+__Tom Buchanann__ - zná se s Nickem z univerzity, chová se povýšeně, podvádí svou ženu Daisy.
