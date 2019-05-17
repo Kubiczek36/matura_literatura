@@ -29,3 +29,7 @@ Román se odehrává během okupace s atmosférou první republiky, je členěn 
 Hlavní hrdina (__nikde nestojí jméno!!__) si najímá sluhu Saturnina a s tím mu začínají nová dobrodružství. Například, že se nastěhuje na Houseboat. Jednoho dne na Houseboat přichází `Teta Kateřina` s `Miloušem`, jejím synem, ten je prý nemocen a potřebuje čerstvý vzduch. Saturnina však napadne "použít masky proti hlodavcům", címž je zažene. Jiří potkává slečnu `Barboru`, která se mu zalíbí a snaží se kvůli ní naučit hrát tenis.
 
 Příběh pokračuje, na dědečkově chatě, kde spolu s `Dr. Vlachem` slečnou Barbourou tráví 3 týdny. Bez pozvání přijíždí také teta Kateřina s Miloušem. Dědeček má chatu na ostrůvku na který vede lávka. Jednoho dne bouřka lávku strhne a vypadne proud, nic nefunguje a nikdo se nikam nedostane. Tak Barbora ze zbytků jídla uvaří, což se nelíbí tetě Kateřině, která sama chtěla vařit. Nakonec pro sebe a Milouše ukradne zbylé zásoby a tváří se jakoby to bylo v pořádku, jelikož hladověla. Jelikož jídlo dochází tak jdou na výpravu do města, která vede přes srub dr. Vlacha. Cestou se dědeček zraní tak, že spadne na skálu. Nakonec výprava dorazí do města, avšak nakonec zjistí, že je postavený nový most.
+
+## Postavy
+
+Teta Kateřina - velmi výstředně se obléká a líčí
