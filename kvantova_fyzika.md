@@ -9,4 +9,6 @@
 
 Nákres v HRW - ![alt text](./fotoefekt.png "Logo Title Text 1")
 
+$$hf= E_{k} + \Phi$$
+
 ## 
